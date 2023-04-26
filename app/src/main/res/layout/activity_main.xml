@@ -62,7 +62,6 @@
                 android:onClick="onButtonClick"
                 android:backgroundTint="@color/white"
                 android:textColor="@color/black"
-                android:textSize="50dp"
 
 
                 android:text="8" />
@@ -74,8 +73,6 @@
                 android:backgroundTint="@color/white"
                 android:layout_marginHorizontal="5dp"
                 android:textColor="@color/black"
-                android:textSize="50dp"
-
                 android:text="9" />
             <Button
                 android:id="@+id/botao_multiplicacao"
@@ -84,7 +81,6 @@
                 android:layout_marginHorizontal="5dp"
                 android:backgroundTint="@color/white"
                 android:onClick="onButtonClick"
-                android:textSize="50dp"
                 android:textColor="@color/black"
                 android:text="×" />
 
